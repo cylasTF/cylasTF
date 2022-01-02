@@ -1,0 +1,10 @@
+{
+	"ApiId" : "KraberHitscan",
+	"Name": "KraberHitscan",
+	"Description": "Makes the Kraber hitscan for Kraber9k or anything else",
+  	"RequiredOnClient": true,
+	"Version": "1.1.0",
+	"Authors": ["cylas"],
+	"LoadPriority": 2
+
+}
